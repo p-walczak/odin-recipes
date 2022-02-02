@@ -1,0 +1,41 @@
+.name {
+    font-size: 50px;
+    text-align: center;
+}
+
+body {
+    background-color: lightgrey;
+}
+.btn-group {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 12px;
+    width: 150px;
+}
+.btn {
+
+    border-radius: 12px;
+    background-color: #4CAF50;
+    border: 1px solid green;
+    padding: 20px;
+    color: white;
+    text-align: center;
+    font-size: 16px;
+    width: 150px;
+    height: 100px;
+    cursor: pointer;
+    display:block;
+}
+
+.btn:hover {
+    background-color: #3e8e41;
+}
+
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+
+}
